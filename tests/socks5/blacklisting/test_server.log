@@ -1,0 +1,96 @@
+[INFO] 2024-04-22T17:03:19.296Z - SOCKS5 server listening on 127.0.0.1:1080 
+[INFO] 2024-04-22T17:03:19.298Z - New connection on server from socket : 127.0.0.1:44360 
+[INFO] 2024-04-22T17:03:19.299Z - Initialize new session 
+[INFO] 2024-04-22T17:03:19.299Z - UDP port assigned : 49152 
+[DEBUG] 2024-04-22T17:03:19.299Z - Received data :  
+[INFO] 2024-04-22T17:03:19.300Z - Successfull greeting 
+[DEBUG] 2024-04-22T17:03:19.300Z - Received data :  invalidUserinvalidPass
+[INFO] 2024-04-22T17:03:19.300Z - Failed authentication 
+[INFO] 2024-04-22T17:03:19.301Z - Connection closed from socket : 127.0.0.1:44360 
+[INFO] 2024-04-22T17:03:19.301Z - Cleaned up session 
+[INFO] 2024-04-22T17:03:19.802Z - New connection on server from socket : 127.0.0.1:44366 
+[INFO] 2024-04-22T17:03:19.802Z - Initialize new session 
+[INFO] 2024-04-22T17:03:19.802Z - UDP port assigned : 49152 
+[DEBUG] 2024-04-22T17:03:19.802Z - Received data :  
+[INFO] 2024-04-22T17:03:19.802Z - Successfull greeting 
+[DEBUG] 2024-04-22T17:03:19.803Z - Received data :  invalidUserinvalidPass
+[INFO] 2024-04-22T17:03:19.803Z - Failed authentication 
+[INFO] 2024-04-22T17:03:19.803Z - Connection closed from socket : 127.0.0.1:44366 
+[INFO] 2024-04-22T17:03:19.803Z - Cleaned up session 
+[INFO] 2024-04-22T17:03:20.305Z - New connection on server from socket : 127.0.0.1:44374 
+[INFO] 2024-04-22T17:03:20.305Z - Initialize new session 
+[INFO] 2024-04-22T17:03:20.305Z - UDP port assigned : 49152 
+[DEBUG] 2024-04-22T17:03:20.305Z - Received data :  
+[INFO] 2024-04-22T17:03:20.305Z - Successfull greeting 
+[DEBUG] 2024-04-22T17:03:20.305Z - Received data :  invalidUserinvalidPass
+[INFO] 2024-04-22T17:03:20.306Z - Failed authentication 
+[INFO] 2024-04-22T17:03:20.306Z - Connection closed from socket : 127.0.0.1:44374 
+[INFO] 2024-04-22T17:03:20.306Z - Cleaned up session 
+[INFO] 2024-04-22T17:03:20.807Z - New connection on server from socket : 127.0.0.1:44378 
+[INFO] 2024-04-22T17:03:20.807Z - Initialize new session 
+[INFO] 2024-04-22T17:03:20.807Z - UDP port assigned : 49152 
+[DEBUG] 2024-04-22T17:03:20.807Z - Received data :  
+[INFO] 2024-04-22T17:03:20.807Z - Successfull greeting 
+[DEBUG] 2024-04-22T17:03:20.807Z - Received data :  invalidUserinvalidPass
+[INFO] 2024-04-22T17:03:20.808Z - Failed authentication 
+[INFO] 2024-04-22T17:03:20.808Z - Connection closed from socket : 127.0.0.1:44378 
+[INFO] 2024-04-22T17:03:20.808Z - Cleaned up session 
+[INFO] 2024-04-22T17:03:21.310Z - New connection on server from socket : 127.0.0.1:44380 
+[INFO] 2024-04-22T17:03:21.310Z - Initialize new session 
+[INFO] 2024-04-22T17:03:21.310Z - UDP port assigned : 49152 
+[DEBUG] 2024-04-22T17:03:21.310Z - Received data :  
+[INFO] 2024-04-22T17:03:21.310Z - Successfull greeting 
+[DEBUG] 2024-04-22T17:03:21.310Z - Received data :  invalidUserinvalidPass
+[INFO] 2024-04-22T17:03:21.311Z - Failed authentication 
+[INFO] 2024-04-22T17:03:21.311Z - Connection closed from socket : 127.0.0.1:44380 
+[INFO] 2024-04-22T17:03:21.311Z - Cleaned up session 
+[INFO] 2024-04-22T17:03:21.812Z - New connection on server from socket : 127.0.0.1:44386 
+[INFO] 2024-04-22T17:03:21.812Z - Initialize new session 
+[INFO] 2024-04-22T17:03:21.812Z - UDP port assigned : 49152 
+[DEBUG] 2024-04-22T17:03:21.813Z - Received data :  
+[INFO] 2024-04-22T17:03:21.813Z - Successfull greeting 
+[DEBUG] 2024-04-22T17:03:21.813Z - Received data :  invalidUserinvalidPass
+[INFO] 2024-04-22T17:03:21.813Z - Failed authentication 
+[INFO] 2024-04-22T17:03:21.813Z - Connection closed from socket : 127.0.0.1:44386 
+[INFO] 2024-04-22T17:03:21.813Z - Cleaned up session 
+[INFO] 2024-04-22T17:03:22.313Z - New connection on server from socket : 127.0.0.1:44398 
+[INFO] 2024-04-22T17:03:22.314Z - Initialize new session 
+[DEBUG] 2024-04-22T17:03:22.314Z - Received data :  
+[INFO] 2024-04-22T17:03:22.314Z - UDP port assigned : 49152 
+[INFO] 2024-04-22T17:03:22.314Z - Successfull greeting 
+[INFO] 2024-04-22T17:03:22.314Z - Failed authentication 
+[DEBUG] 2024-04-22T17:03:22.314Z - Received data :  invalidUserinvalidPass
+[INFO] 2024-04-22T17:03:22.314Z - Connection closed from socket : 127.0.0.1:44398 
+[INFO] 2024-04-22T17:03:22.314Z - Cleaned up session 
+[INFO] 2024-04-22T17:03:22.816Z - New connection on server from socket : 127.0.0.1:44412 
+[INFO] 2024-04-22T17:03:22.816Z - UDP port assigned : 49152 
+[INFO] 2024-04-22T17:03:22.816Z - Initialize new session 
+[DEBUG] 2024-04-22T17:03:22.816Z - Received data :  
+[INFO] 2024-04-22T17:03:22.816Z - Successfull greeting 
+[DEBUG] 2024-04-22T17:03:22.816Z - Received data :  invalidUserinvalidPass
+[INFO] 2024-04-22T17:03:22.817Z - Failed authentication 
+[INFO] 2024-04-22T17:03:22.817Z - Connection closed from socket : 127.0.0.1:44412 
+[INFO] 2024-04-22T17:03:22.817Z - Cleaned up session 
+[INFO] 2024-04-22T17:03:23.317Z - Initialize new session 
+[INFO] 2024-04-22T17:03:23.317Z - New connection on server from socket : 127.0.0.1:44418 
+[INFO] 2024-04-22T17:03:23.317Z - UDP port assigned : 49152 
+[DEBUG] 2024-04-22T17:03:23.317Z - Received data :  
+[INFO] 2024-04-22T17:03:23.317Z - Successfull greeting 
+[DEBUG] 2024-04-22T17:03:23.317Z - Received data :  invalidUserinvalidPass
+[INFO] 2024-04-22T17:03:23.318Z - Failed authentication 
+[INFO] 2024-04-22T17:03:23.318Z - Connection closed from socket : 127.0.0.1:44418 
+[INFO] 2024-04-22T17:03:23.318Z - Cleaned up session 
+[INFO] 2024-04-22T17:03:23.819Z - New connection on server from socket : 127.0.0.1:44426 
+[INFO] 2024-04-22T17:03:23.819Z - Initialize new session 
+[INFO] 2024-04-22T17:03:23.819Z - UDP port assigned : 49152 
+[DEBUG] 2024-04-22T17:03:23.819Z - Received data :  
+[INFO] 2024-04-22T17:03:23.819Z - Successfull greeting 
+[DEBUG] 2024-04-22T17:03:23.819Z - Received data :  invalidUserinvalidPass
+[INFO] 2024-04-22T17:03:23.820Z - Blacklisting IP due to too many failed attempts: 127.0.0.1 
+[INFO] 2024-04-22T17:03:23.820Z - Failed authentication 
+[INFO] 2024-04-22T17:03:23.820Z - Connection closed from socket : 127.0.0.1:44426 
+[INFO] 2024-04-22T17:03:23.820Z - Cleaned up session 
+[INFO] 2024-04-22T17:03:24.320Z - New connection on server from socket : 127.0.0.1:44440 
+[INFO] 2024-04-22T17:03:24.320Z - Rejected blacklisted IP: 127.0.0.1 
+[INFO] 2024-04-22T17:03:24.323Z - Closed active connections 
+[INFO] 2024-04-22T17:03:24.323Z - Closing the server... 

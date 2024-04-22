@@ -1,0 +1,24 @@
+{
+    "authentication": {
+        "method": "noauth",
+        "maxFailedAttempts": 10
+    },
+    "encryption": {
+        "method": "plaintext",
+        "saltRounds": 10
+    },
+    "credentials": [
+        {
+            "username": "user1",
+            "password": "password1"
+        }
+    ],
+    "clientIpFiltering": {
+        "blacklist": [],
+        "whitelist": ["192.165.1.12"]
+    },
+    "serverIpFiltering": {
+        "blacklist": [],
+        "whitelist": []
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "authentication":{
+        "method":"noauth",
+        "maxFailedAttempts": 1000
+    },
+    "clientIpFiltering": {
+        "blacklist": []
+    },
+    "serverIpFiltering": {
+        "blacklist": []
+    }
+}

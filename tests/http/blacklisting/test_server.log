@@ -1,0 +1,71 @@
+[INFO] 2024-04-22T17:03:08.729Z - HTTP/HTTPS proxy server listening on 127.0.0.1:1081 
+[INFO] 2024-04-22T17:03:08.734Z - New connection from 127.0.0.1:56438 
+[DEBUG] 2024-04-22T17:03:08.735Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:03:08.735Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:03:08.735Z - Remote server URL: example.com:80 
+[INFO] 2024-04-22T17:03:08.735Z - Parsed target host: example.com, Port: 80 
+[INFO] 2024-04-22T17:03:08.735Z - Closing connection for 127.0.0.1:56438 
+[INFO] 2024-04-22T17:03:08.736Z - New connection from 127.0.0.1:56454 
+[DEBUG] 2024-04-22T17:03:08.736Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:03:08.736Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:03:08.736Z - Remote server URL: example.com:80 
+[INFO] 2024-04-22T17:03:08.736Z - Parsed target host: example.com, Port: 80 
+[INFO] 2024-04-22T17:03:08.737Z - Closing connection for 127.0.0.1:56454 
+[INFO] 2024-04-22T17:03:08.737Z - New connection from 127.0.0.1:56470 
+[DEBUG] 2024-04-22T17:03:08.737Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:03:08.737Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:03:08.737Z - Remote server URL: example.com:80 
+[INFO] 2024-04-22T17:03:08.737Z - Parsed target host: example.com, Port: 80 
+[INFO] 2024-04-22T17:03:08.737Z - Closing connection for 127.0.0.1:56470 
+[INFO] 2024-04-22T17:03:08.738Z - New connection from 127.0.0.1:56478 
+[DEBUG] 2024-04-22T17:03:08.738Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:03:08.738Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:03:08.738Z - Remote server URL: example.com:80 
+[INFO] 2024-04-22T17:03:08.738Z - Parsed target host: example.com, Port: 80 
+[INFO] 2024-04-22T17:03:08.738Z - Closing connection for 127.0.0.1:56478 
+[INFO] 2024-04-22T17:03:08.739Z - New connection from 127.0.0.1:56482 
+[DEBUG] 2024-04-22T17:03:08.739Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:03:08.739Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:03:08.739Z - Remote server URL: example.com:80 
+[INFO] 2024-04-22T17:03:08.739Z - Parsed target host: example.com, Port: 80 
+[INFO] 2024-04-22T17:03:08.739Z - Closing connection for 127.0.0.1:56482 
+[INFO] 2024-04-22T17:03:08.739Z - New connection from 127.0.0.1:56486 
+[DEBUG] 2024-04-22T17:03:08.739Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:03:08.739Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:03:08.739Z - Remote server URL: example.com:80 
+[INFO] 2024-04-22T17:03:08.739Z - Parsed target host: example.com, Port: 80 
+[INFO] 2024-04-22T17:03:08.740Z - Closing connection for 127.0.0.1:56486 
+[INFO] 2024-04-22T17:03:08.740Z - New connection from 127.0.0.1:56502 
+[DEBUG] 2024-04-22T17:03:08.740Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:03:08.740Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:03:08.740Z - Remote server URL: example.com:80 
+[INFO] 2024-04-22T17:03:08.740Z - Parsed target host: example.com, Port: 80 
+[INFO] 2024-04-22T17:03:08.740Z - Closing connection for 127.0.0.1:56502 
+[INFO] 2024-04-22T17:03:08.740Z - New connection from 127.0.0.1:56506 
+[DEBUG] 2024-04-22T17:03:08.741Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:03:08.741Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:03:08.741Z - Remote server URL: example.com:80 
+[INFO] 2024-04-22T17:03:08.741Z - Parsed target host: example.com, Port: 80 
+[INFO] 2024-04-22T17:03:08.741Z - Closing connection for 127.0.0.1:56506 
+[INFO] 2024-04-22T17:03:08.741Z - New connection from 127.0.0.1:56518 
+[DEBUG] 2024-04-22T17:03:08.741Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:03:08.741Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:03:08.741Z - Remote server URL: example.com:80 
+[INFO] 2024-04-22T17:03:08.741Z - Parsed target host: example.com, Port: 80 
+[INFO] 2024-04-22T17:03:08.742Z - Closing connection for 127.0.0.1:56518 
+[INFO] 2024-04-22T17:03:08.742Z - New connection from 127.0.0.1:56532 
+[DEBUG] 2024-04-22T17:03:08.742Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:03:08.742Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:03:08.742Z - Remote server URL: example.com:80 
+[INFO] 2024-04-22T17:03:08.742Z - Parsed target host: example.com, Port: 80 
+[INFO] 2024-04-22T17:03:08.742Z - Blacklisting IP due to too many failed attempts: 127.0.0.1 
+[INFO] 2024-04-22T17:03:08.742Z - Closing connection for 127.0.0.1:56532 
+[INFO] 2024-04-22T17:03:08.743Z - New connection from 127.0.0.1:56534 
+[DEBUG] 2024-04-22T17:03:08.743Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:03:08.743Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:03:08.743Z - Remote server URL: www.example.com:80 
+[INFO] 2024-04-22T17:03:08.743Z - Parsed target host: www.example.com, Port: 80 
+[INFO] 2024-04-22T17:03:08.743Z - Rejected blacklisted IP: 127.0.0.1 
+[INFO] 2024-04-22T17:03:08.743Z - Closing connection for 127.0.0.1:56534 
+[INFO] 2024-04-22T17:03:08.745Z - Closed active connections 
+[INFO] 2024-04-22T17:03:08.745Z - Closing the server... 

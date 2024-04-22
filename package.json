@@ -1,0 +1,37 @@
+{
+  "name": "@y4ss_npm/ts_proxy",
+  "version": "0.0.4",
+  "description": "HTTP/HTTPS/SOCKS5 proxy server, written in Typescript. Beta version",
+  "main": "./dist/src/index.js",
+  "homepage" : "https://github.com/y4ss/ts_proxy",
+  "bin": {
+    "ts_proxy" : "dist/src/index.js"
+  },
+  "scripts": {
+    "test:http:functional": "jest tests/http/functional --config tests/http/functional/jest.config.js --forceExit",
+    "test:http:performance": "jest tests/http/performance --config tests/http/performance/jest.config.js",
+    "test:http:security": "jest tests/http/security --config tests/http/security/jest.config.js",
+    "test:http:blacklisting": "jest tests/http/blacklisting --config tests/http/blacklisting/jest.config.js",
+    "test:http:whitelist": "jest tests/http/whitelist --config tests/http/whitelist/jest.config.js",
+    "test:socks5:functional": "jest tests/socks5/functional --config tests/socks5/functional/jest.config.js",
+    "test:socks5:performance": "jest tests/socks5/performance --config tests/socks5/performance/jest.config.js",
+    "test:socks5:security": "jest tests/socks5/security --config tests/socks5/security/jest.config.js",
+    "test:socks5:blacklisting": "jest tests/socks5/blacklisting --config tests/socks5/blacklisting/jest.config.js",
+    "test:socks5:whitelist": "jest tests/socks5/whitelist --config tests/socks5/whitelist/jest.config.js",
+    "test": "npm run test:http:performance && npm run test:http:functional && npm run test:http:security && npm run test:http:blacklisting && npm run test:http:whitelist && npm run test:socks5:functional && npm run test:socks5:security && npm run test:socks5:performance && npm run test:socks5:blacklisting && npm run test:socks5:whitelist",
+    "build": "tsc",
+    "start" : "node dist/src/index.js --log_output Console --http"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20.10.5",
+    "bcrypt": "^5.1.1",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.3.3"
+  }
+}

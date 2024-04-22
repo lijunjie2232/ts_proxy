@@ -1,0 +1,17 @@
+{
+   "server":{
+      "socks5":{
+         "serverIP":"127.0.0.1",
+         "port":1080,
+         "udpPortRange":{
+            "min":49152,
+            "max":65535
+         }
+      },
+      "http":{
+         "serverIP":"127.0.0.1",
+         "port":1081
+      },
+      "maxConcurrentConnections":1000
+   }
+}

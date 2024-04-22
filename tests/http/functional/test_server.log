@@ -1,0 +1,37 @@
+[INFO] 2024-04-22T17:02:55.853Z - HTTP/HTTPS proxy server listening on 127.0.0.1:1081 
+[INFO] 2024-04-22T17:02:55.884Z - New connection from 127.0.0.1:49042 
+[DEBUG] 2024-04-22T17:02:55.886Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:55.886Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:55.890Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:55.890Z - No error in instantiation of httpSession 
+[DEBUG] 2024-04-22T17:02:55.896Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:55.896Z - Remote server http://127.0.0.1:3000 
+[DEBUG] 2024-04-22T17:02:55.897Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:55.897Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:55.900Z - New connection from 127.0.0.1:49058 
+[DEBUG] 2024-04-22T17:02:55.901Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:02:55.901Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:02:55.901Z - Remote server URL: localhost:3443 
+[INFO] 2024-04-22T17:02:55.901Z - Parsed target host: localhost, Port: 3443 
+[INFO] 2024-04-22T17:02:55.911Z - New connection from 127.0.0.1:49062 
+[DEBUG] 2024-04-22T17:02:55.912Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:02:55.912Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:02:55.912Z - Remote server URL: 127.0.0.1:3443 
+[INFO] 2024-04-22T17:02:55.912Z - Parsed target host: 127.0.0.1, Port: 3443 
+[INFO] 2024-04-22T17:02:55.912Z - Closing connection for 127.0.0.1:49058 
+[INFO] 2024-04-22T17:02:55.917Z - New connection from 127.0.0.1:49078 
+[DEBUG] 2024-04-22T17:02:55.917Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:02:55.917Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:02:55.917Z - Remote server URL: localhost:3000 
+[INFO] 2024-04-22T17:02:55.917Z - Parsed target host: localhost, Port: 3000 
+[INFO] 2024-04-22T17:02:55.918Z - Closing connection for 127.0.0.1:49062 
+[INFO] 2024-04-22T17:02:55.920Z - New connection from 127.0.0.1:49088 
+[DEBUG] 2024-04-22T17:02:55.920Z - Received HTTPS request 
+[DEBUG] 2024-04-22T17:02:55.920Z - Received HTTPS header:  
+[DEBUG] 2024-04-22T17:02:55.920Z - Remote server URL: localhost:3443 
+[INFO] 2024-04-22T17:02:55.920Z - Parsed target host: localhost, Port: 3443 
+[INFO] 2024-04-22T17:02:55.924Z - Closed active connections 
+[INFO] 2024-04-22T17:02:55.924Z - Closing the server... 
+[INFO] 2024-04-22T17:02:55.926Z - Closing connection for 127.0.0.1:49088 
+[INFO] 2024-04-22T17:02:55.926Z - Closing connection for 127.0.0.1:49078 
+[INFO] 2024-04-22T17:02:55.926Z - Closing connection for 127.0.0.1:49042 

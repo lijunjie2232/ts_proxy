@@ -1,0 +1,40 @@
+[INFO] 2024-04-22T17:03:10.351Z - HTTP/HTTPS proxy server listening on 127.0.0.1:1081 
+[INFO] 2024-04-22T17:03:10.358Z - New connection from 127.0.0.1:56548 
+[DEBUG] 2024-04-22T17:03:10.359Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:03:10.359Z - Remote server http://localhost:3000 
+[INFO] 2024-04-22T17:03:10.366Z - IP not whitelisted: 127.0.0.1 
+[DEBUG] 2024-04-22T17:03:10.370Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:03:10.370Z - Remote server http://localhost:3000 
+[DEBUG] 2024-04-22T17:03:10.374Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:03:10.374Z - No error in instantiation of httpSession 
+[DEBUG] 2024-04-22T17:03:10.378Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:03:10.378Z - Remote server http://localhost:3000 
+[DEBUG] 2024-04-22T17:03:10.381Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:03:10.381Z - No error in instantiation of httpSession 
+[DEBUG] 2024-04-22T17:03:10.383Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:03:10.383Z - Remote server http://localhost:3000 
+[INFO] 2024-04-22T17:03:10.386Z - Rejected blacklisted IP: 127.0.0.1 
+[DEBUG] 2024-04-22T17:03:10.387Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:03:10.387Z - Remote server http://localhost:3000 
+[DEBUG] 2024-04-22T17:03:10.389Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:03:10.389Z - No error in instantiation of httpSession 
+[DEBUG] 2024-04-22T17:03:10.392Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:03:10.392Z - Remote server http://localhost:3000 
+[INFO] 2024-04-22T17:03:10.394Z - Rejected target IP: localhost 
+[DEBUG] 2024-04-22T17:03:10.401Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:03:10.401Z - Remote server http://localhost:3000 
+[INFO] 2024-04-22T17:03:10.404Z - Rejected target IP: localhost 
+[DEBUG] 2024-04-22T17:03:10.405Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:03:10.405Z - Remote server http://localhost:3000 
+[DEBUG] 2024-04-22T17:03:10.408Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:03:10.408Z - No error in instantiation of httpSession 
+[DEBUG] 2024-04-22T17:03:10.410Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:03:10.410Z - Remote server http://localhost:3000 
+[DEBUG] 2024-04-22T17:03:10.413Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:03:10.413Z - No error in instantiation of httpSession 
+[DEBUG] 2024-04-22T17:03:10.415Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:03:10.415Z - Remote server http://localhost:3000 
+[INFO] 2024-04-22T17:03:10.418Z - Rejected target IP: localhost 
+[INFO] 2024-04-22T17:03:10.419Z - Closed active connections 
+[INFO] 2024-04-22T17:03:10.419Z - Closing the server... 
+[INFO] 2024-04-22T17:03:10.425Z - Closing connection for 127.0.0.1:56548 

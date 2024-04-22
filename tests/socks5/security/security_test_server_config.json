@@ -1,0 +1,18 @@
+{
+    "authentication": {
+        "method": "password",
+        "maxFailedAttempts": 10
+    },
+    "credentials": [
+        {
+            "username": "user1",
+            "password": "password1"
+        }
+    ],
+    "clientIpFiltering": {
+        "blacklist": []
+    },
+    "serverIpFiltering": {
+        "blacklist": ["157.240.247.35", "facebook.com"]
+    }
+}

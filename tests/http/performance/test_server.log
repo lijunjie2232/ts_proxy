@@ -1,0 +1,153 @@
+[INFO] 2024-04-22T17:02:53.384Z - HTTP/HTTPS proxy server listening on 127.0.0.1:1081 
+[INFO] 2024-04-22T17:02:53.399Z - New connection from 127.0.0.1:48832 
+[INFO] 2024-04-22T17:02:53.400Z - New connection from 127.0.0.1:48842 
+[DEBUG] 2024-04-22T17:02:53.401Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.401Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.411Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.411Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.412Z - New connection from 127.0.0.1:48844 
+[DEBUG] 2024-04-22T17:02:53.412Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.412Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.416Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.416Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.417Z - New connection from 127.0.0.1:48848 
+[DEBUG] 2024-04-22T17:02:53.417Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.417Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.420Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.420Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.421Z - New connection from 127.0.0.1:48860 
+[DEBUG] 2024-04-22T17:02:53.421Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.421Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.424Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.424Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.425Z - New connection from 127.0.0.1:48874 
+[DEBUG] 2024-04-22T17:02:53.427Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.427Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.430Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.430Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.431Z - New connection from 127.0.0.1:48876 
+[DEBUG] 2024-04-22T17:02:53.432Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.432Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.435Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.435Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.436Z - New connection from 127.0.0.1:48884 
+[DEBUG] 2024-04-22T17:02:53.437Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.437Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.439Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.439Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.440Z - New connection from 127.0.0.1:48894 
+[DEBUG] 2024-04-22T17:02:53.447Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.447Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.449Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.450Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.450Z - New connection from 127.0.0.1:48904 
+[DEBUG] 2024-04-22T17:02:53.451Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.451Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.453Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.453Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.454Z - New connection from 127.0.0.1:48910 
+[DEBUG] 2024-04-22T17:02:53.455Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.455Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.457Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.457Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.457Z - New connection from 127.0.0.1:48920 
+[DEBUG] 2024-04-22T17:02:53.458Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.458Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.461Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.461Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.461Z - New connection from 127.0.0.1:48924 
+[DEBUG] 2024-04-22T17:02:53.462Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.462Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.465Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.465Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.465Z - New connection from 127.0.0.1:48934 
+[DEBUG] 2024-04-22T17:02:53.466Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.466Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.468Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.469Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.469Z - New connection from 127.0.0.1:48936 
+[DEBUG] 2024-04-22T17:02:53.469Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.469Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.472Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.472Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.472Z - New connection from 127.0.0.1:48952 
+[DEBUG] 2024-04-22T17:02:53.473Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.473Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.476Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.476Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.476Z - New connection from 127.0.0.1:48956 
+[DEBUG] 2024-04-22T17:02:53.477Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.477Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.479Z - No error in instantiation of httpSession 
+[DEBUG] 2024-04-22T17:02:53.479Z - Is Blocked : false 
+[INFO] 2024-04-22T17:02:53.480Z - New connection from 127.0.0.1:48964 
+[DEBUG] 2024-04-22T17:02:53.481Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.481Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.483Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.483Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.483Z - New connection from 127.0.0.1:48978 
+[DEBUG] 2024-04-22T17:02:53.484Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.484Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.486Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.486Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.487Z - New connection from 127.0.0.1:48990 
+[DEBUG] 2024-04-22T17:02:53.490Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.490Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.493Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.493Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.494Z - New connection from 127.0.0.1:48996 
+[DEBUG] 2024-04-22T17:02:53.494Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.494Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.497Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.497Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.497Z - New connection from 127.0.0.1:49012 
+[DEBUG] 2024-04-22T17:02:53.498Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.498Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.500Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.500Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.501Z - New connection from 127.0.0.1:49016 
+[DEBUG] 2024-04-22T17:02:53.501Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.501Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.504Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.504Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.504Z - New connection from 127.0.0.1:49032 
+[DEBUG] 2024-04-22T17:02:53.505Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.505Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.507Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.507Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.507Z - New connection from 127.0.0.1:49038 
+[DEBUG] 2024-04-22T17:02:53.508Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.508Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.511Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.511Z - No error in instantiation of httpSession 
+[DEBUG] 2024-04-22T17:02:53.511Z - Receveid HTTP request 
+[DEBUG] 2024-04-22T17:02:53.511Z - Remote server http://localhost:3000/ 
+[DEBUG] 2024-04-22T17:02:53.514Z - Is Blocked : false 
+[DEBUG] 2024-04-22T17:02:53.514Z - No error in instantiation of httpSession 
+[INFO] 2024-04-22T17:02:53.517Z - Closed active connections 
+[INFO] 2024-04-22T17:02:53.517Z - Closing the server... 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:49038 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:49032 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:49016 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:49012 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48996 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48990 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48978 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48956 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48964 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48952 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48936 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48934 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48924 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48920 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48910 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48904 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48894 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48884 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48876 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48874 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48860 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48848 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48844 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48842 
+[INFO] 2024-04-22T17:02:53.523Z - Closing connection for 127.0.0.1:48832 
