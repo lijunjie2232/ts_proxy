@@ -19,7 +19,7 @@ Implementation match almost completely with RFC 1928 specification (https://data
 
 **Install from NPM**
 ```
-npm install ts_proxy
+npm install @y4ss_npm/ts_proxy
 ```
 
 **From the source**
